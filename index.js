@@ -71,3 +71,36 @@
 // console.log(a*100 + b*1);
 
 //15
+// let m = 246;
+// let k = parseInt(m%100/10);
+// let j = parseInt(m/100);
+// let l = parseInt(m%10)
+// console.log(k*100 + j*10 + l*1);
+
+//16 
+// let a = 153;
+
+// let s = parseInt(a/100%10);
+// let m = parseInt(a%10);
+// let n = parseInt(a%100/10)
+// console.log(s*100 + m*10 +n*1);
+
+//17 
+// let a = 1245;
+// let b = parseInt(a/100%10);
+// console.log(b);
+
+//18 
+ const a = 1234;
+
+ //19 
+// let sek = 1355;
+// console.log(parseInt(sek /60));
+//22 min bor
+
+//20 
+// let N = 1455;
+// console.log( N / 3600);
+
+//21 
+
