@@ -6,7 +6,7 @@
 // console.log(L / 10);
 
 //2-chi
- 
+
 // let M = 1200;
 // console.log(M/1000);
 
@@ -25,15 +25,15 @@
 // console.log(String(x)[0]);
 // console.log(String(x)[1]);
 
-//6 
+//6
 
 // let a = 32;
-// let s = String(a) 
+// let s = String(a)
 // let one = Number(s[0]);
 // let two = Number(s[1]);
 // console.log(one + two);
 
-//7 
+//7
 // let z = 47;
 // console.log(z%10);
 // console.log(parseInt(z / 10));
@@ -64,4 +64,10 @@
 // let y = a%100;
 // console.log(y*10+x*1);
 
-//14 
+//14
+// const x = 487;
+// let a = parseInt(x%10);
+// let b = parseInt(x/10);
+// console.log(a*100 + b*1);
+
+//15
