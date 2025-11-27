@@ -91,8 +91,7 @@
 // console.log(b);
 
 //18 
- const a = 1234;
-
+//tushunmadim 18-savolga;
  //19 
 // let sek = 1355;
 // console.log(parseInt(sek /60));
@@ -103,4 +102,25 @@
 // console.log( N / 3600);
 
 //21 
+// let B = 1450;
+// let s = parseInt(B/60);
+// console.log(s);
+// 22 min bor
+// let k = parseInt(B);
+// console.log(k);
+// 1450 sek bor
+
+//23 
+// let a = 1001;
+// console.log(a/3600);
+
+// //23
+// let M = 2100;
+// let n = (M/60);
+// console.log(n);
+// let x = (M/3600);
+// console.log(x);
+
+
+ 
 
