@@ -1,4 +1,4 @@
-//  alert('Welcome everyone')
+ alert('Welcome everyone')
 //1-chi
 
 // let L =1000;
@@ -19,6 +19,12 @@
 // let A = 100;
 // let b = 30;
 // console.log(A/b);
+
+// let A = 10;
+// let B = 3;
+// console.log(parseInt(A/B));
+
+
 //5-chi
 
 // let x = 25;
